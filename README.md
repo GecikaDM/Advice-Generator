@@ -26,4 +26,5 @@ I found that project interresting and I quite like making a generator, I wanted 
 - [Advice Slip API](https://api.adviceslip.com)
 
 ### links
+- Solution link: [solution on frontend mentor](https://www.frontendmentor.io/solutions/advice-generator-3SQbMKozVu)
 - Live Site URL: [advice-your-day](https://advice-your-day.netlify.app/)

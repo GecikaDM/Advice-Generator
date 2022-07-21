@@ -25,3 +25,5 @@ I found that project interresting and I quite like making a generator, I wanted 
 ### API
 - [Advice Slip API](https://api.adviceslip.com)
 
+### links
+- Live Site URL: [advice-your-day](https://advice-your-day.netlify.app/)

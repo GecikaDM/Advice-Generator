@@ -15,7 +15,7 @@ Welcome guys :v:
 
 Frontend mentor is for me a good way to practice and keep going in web developpement.
 
-I found that project interresting and I quite like making a generator, I wanted also to review how to insert data from an API, concept that I found a bit difficult when I made a bootcamp. So I am pretty glad that I acjieve to me that project.
+I found that project interresting and I quite like making a generator, I wanted also to review how to insert data from an API, concept that I found a bit difficult when I made a bootcamp. So I am pretty glad that I achieve this lil' app.
 
 ### Built with
 
